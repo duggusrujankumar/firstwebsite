@@ -6,7 +6,11 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+  <div>
+    <App name="Srujan" work="Kitestring"/>
+    
+
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
